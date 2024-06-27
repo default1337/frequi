@@ -2838,13 +2838,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"echarts@npm:^5.5.0":
-  version: 5.5.0
-  resolution: "echarts@npm:5.5.0"
+"echarts@npm:^5.5.1":
+  version: 5.5.1
+  resolution: "echarts@npm:5.5.1"
   dependencies:
     tslib: 2.3.0
-    zrender: 5.5.0
-  checksum: 181600d21bc4ad6a877bac419800501345c4103ae49ef05a4db495c8dde91f0a5f7ff02eb94581190c59518526f7931e8410ce3fe5da1e0f1e60cd1aeec04a52
+    zrender: 5.6.0
+  checksum: 1b8e00a9492157d6faa58483add07bac7560e273e8716bd62d6e75777809dbe43106cd5bceb7e0deebf36ae100356395e2be07ce3a21442496241e25a219482f
   languageName: node
   linkType: hard
 
@@ -3567,7 +3567,7 @@ __metadata:
     cypress: ^13.6.6
     date-fns: ^2.30.0
     date-fns-tz: ^2.0.0
-    echarts: ^5.5.0
+    echarts: ^5.5.1
     eslint: ^8.57.0
     eslint-plugin-prettier: ^5.1.3
     eslint-plugin-vue: ^9.22.0
@@ -3645,7 +3645,7 @@ __metadata:
 
 "fsevents@patch:fsevents@~2.3.2#~builtin<compat/fsevents>, fsevents@patch:fsevents@~2.3.3#~builtin<compat/fsevents>":
   version: 2.3.3
-  resolution: "fsevents@patch:fsevents@npm%3A2.3.3#~builtin<compat/fsevents>::version=2.3.3&hash=df0bf1"
+  resolution: "fsevents@patch:fsevents@npm%3A2.3.3#~builtin<compat/fsevents>::version=2.3.3&hash=18f3a7"
   dependencies:
     node-gyp: latest
   conditions: os=darwin
@@ -5408,7 +5408,7 @@ __metadata:
 
 "resolve@patch:resolve@^1.22.4#~builtin<compat/resolve>":
   version: 1.22.8
-  resolution: "resolve@patch:resolve@npm%3A1.22.8#~builtin<compat/resolve>::version=1.22.8&hash=c3c19d"
+  resolution: "resolve@patch:resolve@npm%3A1.22.8#~builtin<compat/resolve>::version=1.22.8&hash=07638b"
   dependencies:
     is-core-module: ^2.13.0
     path-parse: ^1.0.7
@@ -6074,7 +6074,7 @@ __metadata:
 
 "typescript@patch:typescript@~5.3.3#~builtin<compat/typescript>":
   version: 5.3.3
-  resolution: "typescript@patch:typescript@npm%3A5.3.3#~builtin<compat/typescript>::version=5.3.3&hash=14eedb"
+  resolution: "typescript@patch:typescript@npm%3A5.3.3#~builtin<compat/typescript>::version=5.3.3&hash=701156"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
@@ -6823,11 +6823,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"zrender@npm:5.5.0":
-  version: 5.5.0
-  resolution: "zrender@npm:5.5.0"
+"zrender@npm:5.6.0":
+  version: 5.6.0
+  resolution: "zrender@npm:5.6.0"
   dependencies:
     tslib: 2.3.0
-  checksum: 89e4f9e95b586af66ebf5c0504d5f8da73678e18c5b888124943ca81ecea7cff12f23009d64048df91e4dc670e9c51fa66c357834d9347e367f3b5cc02a24d35
+  checksum: 58875a8ed8b813c739f6b6e727eb5eead39b66278143ff231cdd270349a5743af034f7f20567c7895eecb1cadbdae499e17708d96f1faae958ad3acdb3d46687
   languageName: node
   linkType: hard
